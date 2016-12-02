@@ -1,0 +1,16 @@
+{
+  "name": "react-sticky",
+  "description": "Sticky component for React",
+  "main": "dist/react-sticky.js",
+  "authors": [
+    "Captivation Software"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react-component",
+    "React",
+    "Sticky"
+  ],
+  "homepage": "https://github.com/uidu-org/react-sticky",
+  "private": true
+}
